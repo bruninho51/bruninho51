@@ -14,6 +14,7 @@ Sou desenvolvedor backend com foco em Java, atualmente trabalhando com **Quarkus
 
 ## Projetos em destaque
 
+- [Simple Hashicorp Vault K3S](https://github.com/bruninho51/Simple-Hashicorp-Vault-K3S) - Configuração do Hashicorp Vault para K3S
 - [Quarkus Kafka Basic](https://github.com/bruninho51/Quarkus-Kafka-Basic) - Projeto básico com Quarkus e Kafka
 - [Anki Card Creator](https://github.com/bruninho51/Anki-Card-Creator) - Ferramenta para criação de cartões Anki
 - [Projeto Controle Gastos Flutter](https://github.com/bruninho51/Projeto-Controle-Gastos-Flutter) - Aplicativo de controle financeiro em Flutter
